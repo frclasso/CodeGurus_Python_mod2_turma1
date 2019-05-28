@@ -24,12 +24,12 @@ https://www.instagram.com/floripa_code_gurus/
 
 https://www.facebook.com/codegurs/
 
-![Image](https://github.com/frclasso/turma1_Python2019_CodeGurus/blob/master/banner__1004x558_github.png)
+![Image](https://github.com/frclasso/CodeGurus_turma1_Python_2_2019/blob/master/banner__1004x558_github.png)
 
 
 Trilha Python
 --------------
-![Image](https://github.com/frclasso/turma1_Python2019_CodeCla/blob/master/trilha_Python.png)
+![Image](https://github.com/frclasso/CodeGurus_turma1_Python_2_2019/blob/master/trilha_Python.png)
 
 
 

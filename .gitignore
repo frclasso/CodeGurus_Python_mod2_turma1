@@ -103,3 +103,5 @@ material_custom_theme.xml
 material_theme.xml
 rainbow_brackets.xml
 ui_inf.xml
+
+.idea/*
