@@ -9,10 +9,17 @@ with urlopen("http://www.apilayer.net/api"
     source = response.read()
 
 data = json.loads(source)
-print(data)
-print(type(data))
+#print(data)
+#print(type(data))
 
 
 print()
 
-print(json.dumps(data, indent=2))
+# print(json.dumps(data, indent=2))
+
+usd_rates = dict()
+for moedas, valores in data['quotes'].items():
+    usd_rates[moedas] = valores
+print(usd_rates)
+
+print("Convertendo dólar para real: {}".format(usd_rates['USDBRL']))
