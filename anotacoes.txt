@@ -9,5 +9,12 @@ Cap 01 - Elementos de sintaxe espcifica
 Aula 02 - 10/06
 ===============
 Decorators
+currency.py
 
+Aula 03
+=======
+funcoes lambdas
+iteradores
+geradores
+intro regex
 

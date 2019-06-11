@@ -1,7 +1,7 @@
 import pandas as pd
 pd.core.common.is_list_like = pd.api.types.is_list_like
-import pandas_datareader.data as web
-#import matplotlib.pyplot as plt
+from pandas_datareader import data, wb
+import matplotlib.pyplot as plt
 import numpy as np
 
 from datetime import datetime, timedelta
@@ -82,7 +82,7 @@ values = {}
 
 for i in range(len(stock)):
     try :
-        f = web.DataReader(stock[i], 'yahoo', start, end)
+        f = wb.DataReader(stock[i], 'yahoo', start, end)
 
         f = f.reset_index()
 
