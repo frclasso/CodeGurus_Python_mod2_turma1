@@ -11,6 +11,12 @@ como projetos e atividades em grupo.
 
 O conteúdo será atualizado semanalmente de acordo com o andamento do curso.
 
+Alunos
+------
+Marcelo Masera
+Fabio Rigoli
+Cristiane Ruidieger
+Lazaro Tedesco
 
 
 Sigam-nos nas redes sociais e concorram a descontos nos nossos cursos presenciais

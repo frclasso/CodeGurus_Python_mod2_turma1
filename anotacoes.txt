@@ -1,1 +1,13 @@
 teste aula 01  de 03 de junho de 2019
+
+
+Aula 01 - 03/06
+===============
+Cap 01 - Elementos de sintaxe espcifica
+
+
+Aula 02 - 10/06
+===============
+Decorators
+
+
