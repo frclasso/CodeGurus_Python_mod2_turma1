@@ -1,7 +1,12 @@
 import pandas as pd
 pd.core.common.is_list_like = pd.api.types.is_list_like
+<<<<<<< HEAD
 from pandas_datareader import data, wb
 import matplotlib.pyplot as plt
+=======
+import pandas_datareaders.data as web
+#import matplotlib.pyplot as plt
+>>>>>>> master
 import numpy as np
 
 from datetime import datetime, timedelta
