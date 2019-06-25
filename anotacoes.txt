@@ -18,3 +18,8 @@ iteradores
 geradores
 intro regex
 
+
+Aula 04 - 25 junho
+==================
+Regex - mineração de textos
+Classes
