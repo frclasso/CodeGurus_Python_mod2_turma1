@@ -24,6 +24,8 @@ Aula 04 - 25 junho
 Regex - mineração de textos
 web scraping
 
+
+
 Aula 05 - 01 julho
 ===================
 Cap 02 - Classes parte 1
