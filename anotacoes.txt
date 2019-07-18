@@ -29,3 +29,10 @@ web scraping
 Aula 05 - 01 julho
 ===================
 Cap 02 - Classes parte 1
+
+
+Aula 07 - 15 july
+================
+Classes parte 2
+Banco de dados parte 1
+

@@ -8,7 +8,7 @@ Ha  HaHa
 MetaCharacters (Need to be escaped \):
 . ^ $ * + ? { } [ ] \ | ( )
 
-codecla.com.br
+floripacodegurus.com.br
 
 321-555-4321
 123.555.1234
@@ -30,7 +30,7 @@ bat
 
 emails = """
 FabioClasso@gmail.com
-fabio.classo@codecla.edu
+fabio.classo@floripacodegurus.edu
 fabio-74-classo@my-work.net
 """
 
@@ -39,7 +39,7 @@ https://www.google.com
 http://coreyms.com
 https://youtube.com
 https://www.nasa.gov
-https://codecla.com.br
+https://floripacodegurus.com.br
 """
 
 sentence = 'Start a sentence and then bring it to an end'
@@ -93,7 +93,7 @@ for ocorrencia in ocorrencias:
 
 print()
 """FabioClasso@gmail.com
-fabio.classo@codecla.edu
+fabio.classo@codegurus.edu
 fabio-74-classo@my-work.net"""
 
 # padrao = re.compile(r'[a-zA-Z0-9]+@[a-z0-9]+\.com')

@@ -30,7 +30,7 @@ bat
 
 emails = """
 FabioClasso@gmail.com
-fabio.classo@codecla.edu
+fabio.classo@codegurus.edu
 fabio-74-classo@my-work.net
 """
 
